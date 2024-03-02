@@ -7,7 +7,7 @@ first_name: Florian
 middle_name: 
 last_name: Friesenegger
 email: florian@friesenegger.xyz
-description: > # the ">" symbol means to ignore newlines until "footer_text:" 
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Pharmaceutical Sciences Student at Ludwig-Maximilians-Univerity Munich
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
