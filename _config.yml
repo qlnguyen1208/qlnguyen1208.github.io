@@ -123,7 +123,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 🧠 & 📝 # blog_name will be displayed in your blog page
-blog_description: short ideas, summaries & notes
+blog_description: ideas, summaries & notes
 permalink: /blog/:year/:title/
 
 # Pagination
