@@ -54,7 +54,7 @@
   contents:
     - year: 2021
       items:
-        - DPG-Abitur-/ & Buchpreis
+        - <a href="https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis/index_html?set_language=en">DPG-Abitur-/ & Buchpreis</a>
 
 - title: Academic Interests
   type: nested_list
