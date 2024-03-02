@@ -8,4 +8,7 @@ category: personal
 related_publications: false
 ---
 
-...
+
+<a href="https://www.instagram.com/wetter.am.see/"><i class="fa-brands fa-instagram"></i> wetter.am.see</a>
+
+<a href="https://www.instagram.com/wetter.am.ammersee/"><i class="fa-brands fa-instagram"></i> wetter.am.ammersee</a>
