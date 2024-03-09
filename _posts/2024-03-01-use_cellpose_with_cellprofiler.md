@@ -23,6 +23,10 @@ To install Cellprofiler you can either download the [installer](https://cellprof
 ```powershell
 pip install "cellprofiler"
 ```
+> ##### INFO
+>
+> For this example, I used the, as of this writing, most recent versions of Cellpose 3 and Cellprofiler 4 but future updates might break the exact procedure.
+{: .block-tip }
 
 <br>
 #### 1) Segmentation in Cellpose
