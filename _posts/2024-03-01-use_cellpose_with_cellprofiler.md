@@ -2,7 +2,7 @@
 layout: post
 title: How to use Cellpose with Cellprofiler (without plugin)
 date: 2024-03-01
-description: A (very) short tutorial
+description: A short tutorial on windows
 tags: python cellprofiler cellpose 
 categories: tutorials research
 ---
