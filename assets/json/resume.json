@@ -17,7 +17,7 @@
       "startDate": "2016",
       "endDate": "2019",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "education": [
@@ -33,18 +33,18 @@
     {
       "institution": "Staatliche Berufsoberschule",
       "location": "Munich, DE",
-      "url": "https://fosbosmuenchen.de/",
+      "url": "https://www.fosbosmuenchen.de/",
       "area": "Technik",
       "studyType": "Abitur",
       "startDate": "2020",
       "endDate": "2021",
       "score": "",
-      "courses": ["Project Paper: Game Development in Python: Checkers"]
+      "courses": ["Project Paper: Game Development in Python"]
     },
     {
       "institution": "Staatliche Berufsoberschule",
       "location": "Weilheim i.OB, DE",
-      "url": "https://fos-bos-weilheim.de/",
+      "url": "https://www.fos-bos-weilheim.de/",
       "area": "Technik",
       "studyType": "Fachabitur",
       "startDate": "2019",
@@ -56,10 +56,10 @@
     {
       "organization": "Offene Ganztagsschule an der Grundschule Tutzing",
       "position": "IT Manager",
-      "url": "https://ogts-tutzing.de",
+      "url": "https://www.ogts-tutzing.de",
       "startDate": "2022",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "awards": [
@@ -88,6 +88,7 @@
       "keywords": [
         "qRT-PCR",
         "Immunhistochemistry",
+        "Westernblot",
         "Confocal Microscopy",
         "Organic Synthesis",
         "HPLC-MS Analysis"
