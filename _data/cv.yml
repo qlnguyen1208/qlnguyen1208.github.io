@@ -1,0 +1,74 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Florian Friesenegger
+    - name: Languages
+      value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: B.S. Pharmaceutical Sciences
+      institution: Ludwig-Maximilians-University, Munich DE
+      year: 2021 - 2024
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: Abitur
+      institution: Berufsoberschule Technik, Weilheim & Munich DE
+      year: 2019 - 2021
+#      description:
+#        - Description 1.
+#        - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Apprentice Chemical Laboratory Assistant
+      institution: Roche Diagnostics GmbH, Penzberg DE
+      year: 2016 - 2019
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - <a href="https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis/index_html?set_language=en">DPG-Abitur-/ & Buchpreis</a>
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+- title: Technical Skills
+  type: list
+  contents:
+    - "Software: Jupyter Lab, Microsoft Office, Graphpad Prism"
+    - "Computer Languages: Python, R"
+    - "Operating Systems: Windows, Linux"
