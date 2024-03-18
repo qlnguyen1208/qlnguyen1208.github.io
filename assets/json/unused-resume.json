@@ -5,16 +5,16 @@
     "image": "",
     "email": "florian@friesenegger.xyz",
     "url": "https://frieseneggr.xyz",
-    "summary": "..."
+    "summary": ""
   },
   "work": [
     {
       "name": "Roche Diagnostics GmbH, Penzberg",
       "position": "Apprentice Chemical Laboratory Assistant",
-      "startDate": "2016-09",
-      "endDate": "2019-07",
-      "summary": "...",
-      "highlights": ["..."]
+      "startDate": "2016",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
@@ -23,8 +23,8 @@
       "position": "IT Manager",
       "url": "https://ogts-tutzing.de",
       "startDate": "2022",
-      "summary": "...",
-      "highlights": ["...", "..."]
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
@@ -34,9 +34,9 @@
       "url": "https://www.lmu.de/",
       "area": "Pharmaceutical Sciences",
       "studyType": "B.Sc.",
-      "startDate": "2021-10",
-      "score": "..",
-      "courses": ["..."]
+      "startDate": "2021",
+      "score": "",
+      "courses": [""]
     },
     {
       "institution": "Staatliche Berufsoberschule",
@@ -44,10 +44,10 @@
       "url": "https://fosbosmuenchen.de/",
       "area": "Technik",
       "studyType": "Abitur",
-      "startDate": "2021-07",
-      "endDate": "2020-09",
-      "score": "..",
-      "courses": ["..."]
+      "startDate": "2021",
+      "endDate": "2020",
+      "score": "",
+      "courses": [""]
     },
     {
       "institution": "Staatliche Berufsoberschule",
@@ -55,16 +55,16 @@
       "url": "https://fos-bos-weilheim.de/",
       "area": "Technik",
       "studyType": "Fachabitur",
-      "startDate": "2019-09",
-      "endDate": "2020-07",
-      "score": "..",
-      "courses": ["..."]
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
     {
       "title": "DPG Abitur-/ & Buchpreis",
-      "date": "2021-07",
+      "date": "2021",
       "awarder": "German Physical Society",
       "url": "https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis?set_language=en",
       "summary": "For outstanding performance in the subject of Physics"
@@ -73,7 +73,7 @@
   "certificates": [
     {
       "name": "The DataScientist's Toolbox",
-      "date": "2022-02",
+      "date": "2022",
       "issuer": "Coursera",
       "url": "https://www.coursera.org/account/accomplishments/certificate/3W4VCVPUKSUF",
       "icon": "fa-solid fa-location-dot"
