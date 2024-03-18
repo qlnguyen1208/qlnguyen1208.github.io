@@ -5,11 +5,16 @@
     "image": "",
     "email": "florian@friesenegger.xyz",
     "url": "https://frieseneggr.xyz",
+    "location": {
+      "city": "Munich",
+      "countryCode": "DE"
+    },
     "summary": ""
   },
   "work": [
     {
-      "name": "Roche Diagnostics GmbH, Penzberg",
+      "name": "Roche Diagnostics GmbH",
+      "location": "Penzberg, DE",
       "position": "Apprentice Chemical Laboratory Assistant",
       "startDate": "2016",
       "endDate": "2019",
@@ -30,17 +35,18 @@
   "education": [
     {
       "institution": "Ludwig-Maximilians-University",
-      "location": "Munich, Germany",
+      "location": "Munich, DE",
       "url": "https://www.lmu.de/",
       "area": "Pharmaceutical Sciences",
       "studyType": "B.Sc.",
       "startDate": "2021",
+      "endDate": "2024",
       "score": "",
       "courses": [""]
     },
     {
       "institution": "Staatliche Berufsoberschule",
-      "location": "Munich, Germany",
+      "location": "Munich, DE",
       "url": "https://fosbosmuenchen.de/",
       "area": "Technik",
       "studyType": "Abitur",
@@ -51,7 +57,7 @@
     },
     {
       "institution": "Staatliche Berufsoberschule",
-      "location": "Weilheim i.OB, Germany",
+      "location": "Weilheim i.OB, DE",
       "url": "https://fos-bos-weilheim.de/",
       "area": "Technik",
       "studyType": "Fachabitur",
@@ -67,7 +73,7 @@
       "date": "2021",
       "awarder": "German Physical Society",
       "url": "https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis?set_language=en",
-      "summary": "For outstanding performance in the subject of Physics"
+      "summary": "For outstanding performance in the subject Physics"
     }
   ],
   "certificates": [
@@ -76,47 +82,55 @@
       "date": "2022",
       "issuer": "Coursera",
       "url": "https://www.coursera.org/account/accomplishments/certificate/3W4VCVPUKSUF",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-chart-column"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Laboratory",
+      "level": "",
+      "icon": "fa-solid fa-flask-vial",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "qRT-PCR",
+        "Immunhistochemistry",
+        "Confocal Microscopy",
+        "Organic Synthesis",
+        "HPLC-MS Analysis"
+      ]
+    },
+    {
+      "name": "Computer",
+      "level": "",
+      "icon": "fa-solid fa-computer",
+      "keywords": [
+        "Python, R",
+        "Graphpad Prism, JupyterLab",
+        "FIJI, Cellpose, Cellprofiler",
+        "Windows, Linux"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "German 🇩🇪",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "English 🇬🇧",
       "fluency": "Fluent",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research",
+      "icon": "fa-solid fa-magnifying-glass",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Neuroscience",
+        "Ophtalmology",
+        "Epigenetics",
+        "Bioinformatics"
       ]
     }
   ]
