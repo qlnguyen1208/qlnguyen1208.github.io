@@ -22,16 +22,6 @@
       "highlights": [""]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Offene Ganztagsschule an der Grundschule Tutzing",
-      "position": "IT Manager",
-      "url": "https://ogts-tutzing.de",
-      "startDate": "2022",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
   "education": [
     {
       "institution": "Ludwig-Maximilians-University",
@@ -40,9 +30,7 @@
       "area": "Pharmaceutical Sciences",
       "studyType": "B.Sc.",
       "startDate": "2021",
-      "endDate": "2024",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "Staatliche Berufsoberschule",
@@ -50,10 +38,10 @@
       "url": "https://fosbosmuenchen.de/",
       "area": "Technik",
       "studyType": "Abitur",
-      "startDate": "2021",
-      "endDate": "2020",
+      "startDate": "2020",
+      "endDate": "2021",
       "score": "",
-      "courses": [""]
+      "courses": ["Project Paper: Game Development in Python: Checkers"]
     },
     {
       "institution": "Staatliche Berufsoberschule",
@@ -63,8 +51,17 @@
       "studyType": "Fachabitur",
       "startDate": "2019",
       "endDate": "2020",
-      "score": "",
-      "courses": [""]
+      "score": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Offene Ganztagsschule an der Grundschule Tutzing",
+      "position": "IT Manager",
+      "url": "https://ogts-tutzing.de",
+      "startDate": "2022",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "awards": [
