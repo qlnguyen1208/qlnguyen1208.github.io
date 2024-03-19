@@ -1,14 +1,4 @@
 {
-  "basics": {
-    "name": "Florian Friesenegger",
-    "label": "Bachelor Student",
-    "image": "",
-    "location": {
-      "city": "Munich",
-      "countryCode": "DE"
-    },
-    "summary": ""
-  },
   "experience": [
     {
       "name": "Roche Diagnostics GmbH",
