@@ -28,15 +28,21 @@
     {
       "institution": "Ludwig-Maximilians-University",
       "location": "Munich, DE",
-      "url": "https://www.lmu.de/",
-      "area": "An innovative, research-focused Bachelor's degree in the field of life sciences, providing a strong foundation in modern pharmaceutical research and drug development, offered exclusively at LMU Munich.",
+      "url": "https://www.cup.lmu.de/en/study-programs/pharmaceutical-sciences/struktur-pruefungs-und-studienordnungen-studienplaene-modulhandbuecher/",
+      "area": "An innovative, research-focused Bachelor's degree in the field of life sciences, providing a strong foundation in modern pharmaceutical research and drug development.",
       "studyType": "B.S. Pharmaceutical Sciences",
       "startDate": "2021",
-      "score": ""
+      "score": "",
+      "courses": ["Anatomy and Physiology", 
+      "Integrated Organic Chemistry", 
+      "Biochemistry, Molecular Biology and Molecular Medicine", 
+      "Immunology, Immunotherapeutics, Biogenic and Recombinant Drugs", 
+      "Instrumental Organic Analysis",
+      "Medicinical Chemistry and Drug Analysis"]
     },
     {
       "institution": "Staatliche Berufsoberschule",
-      "location": "Weilheim & Munich, DE",
+      "location": "Munich, DE",
       "url": "https://www.fosbosmuenchen.de/",
       "area": "A specialized vocational high school in that builds upon a secondary school leaving certificate and completed vocational training, offering general education culminating in the qualification for university entrance.",
       "studyType": "Abitur",
