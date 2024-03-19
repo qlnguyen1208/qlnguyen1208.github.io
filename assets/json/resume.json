@@ -13,11 +13,15 @@
     {
       "name": "Roche Diagnostics GmbH",
       "location": "Penzberg, DE",
-      "position": "Apprentice Chemical Laboratory Assistant",
+      "url": "https://careers.roche.com/global/en/welcome-to-apprenticeship-penzberg/",
+      "position": "Apprentice Chemical Laboratory Technician",
       "startDate": "2016",
       "endDate": "2019",
-      "summary": "",
-      "highlights": []
+      "summary": "Completed rigorous hands-on vocational training as a chemical laboratory technician, gaining expertise in analytical techniques, biochemical methods and quality control while contributing to impactful research projects.",
+      "highlights": [
+      "LC-MS method development",
+      "Elecsys Radioimmunoassay test development (Oncology and Alzheimer’s) and system integration",
+      "Planning and supervision of internships for pupils"]
     }
   ],
   "education": [
@@ -25,31 +29,21 @@
       "institution": "Ludwig-Maximilians-University",
       "location": "Munich, DE",
       "url": "https://www.lmu.de/",
-      "area": "Pharmaceutical Sciences",
-      "studyType": "B.Sc.",
+      "area": "An innovative, research-focused Bachelor's degree in the field of life sciences, providing a strong foundation in modern pharmaceutical research and drug development, offered exclusively at LMU Munich.",
+      "studyType": "B.S. Pharmaceutical Sciences",
       "startDate": "2021",
       "score": ""
     },
     {
       "institution": "Staatliche Berufsoberschule",
-      "location": "Munich, DE",
+      "location": "Weilheim & Munich, DE",
       "url": "https://www.fosbosmuenchen.de/",
-      "area": "Technik",
+      "area": "A specialized vocational high school in that builds upon a secondary school leaving certificate and completed vocational training, offering general education culminating in the qualification for university entrance.",
       "studyType": "Abitur",
-      "startDate": "2020",
+      "startDate": "2019",
       "endDate": "2021",
       "score": "",
       "courses": ["Project Paper: Game Development in Python"]
-    },
-    {
-      "institution": "Staatliche Berufsoberschule",
-      "location": "Weilheim i.OB, DE",
-      "url": "https://www.fos-bos-weilheim.de/",
-      "area": "Technik",
-      "studyType": "Fachabitur",
-      "startDate": "2019",
-      "endDate": "2020",
-      "score": ""
     }
   ],
   "volunteer": [
