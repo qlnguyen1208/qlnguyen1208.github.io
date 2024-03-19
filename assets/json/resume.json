@@ -108,14 +108,14 @@
   ],
   "languages": [
     {
-      "language": "German 🇩🇪",
+      "language": "German",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "🇩🇪"
     },
     {
-      "language": "English 🇬🇧",
+      "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "🇬🇧"
     }
   ],
   "interests": [
