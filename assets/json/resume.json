@@ -1,5 +1,29 @@
 {
   "experience": [
+  {
+      "name": "AG Koch, LMU Department of Pharmacy",
+      "location": "Munich, DE",
+      "position": "Bachelor Student",
+      "startDate": "Jan 2024",
+      "endDate": "Apr 2024",
+      "summary": "Thesis on investigations of the morphology and phagocytotic activity of retinal pigment epithelium in a retinitis pigmentosa mouse model",
+      "highlights": [
+      "Preparation of mouse RPE flatmounts",
+      "qRT-PCR, Immunohistochemistry, Fluoresence Microscopy, Westernblot",
+      "Development of a cellprofiler pipeline for RPE analysis"
+      ]
+    },
+    {
+      "name": "AG Thorn-Seshold, LMU Department of Pharmacy",
+      "location": "Munich, DE",
+      "url": "https://thornseshold.cup.uni-muenchen.de/",
+      "position": "Research Intern",
+      "startDate": "Aug 2023",
+      "summary": "3 week research internship in pharmaceutical chemistry",
+      "highlights": [
+      "Synthesis, purification and analysis of organic compounds"
+      ]
+    },
     {
       "name": "Roche Diagnostics GmbH",
       "location": "Penzberg, DE",
@@ -18,7 +42,7 @@
     {
       "institution": "Ludwig-Maximilians-University",
       "location": "Munich, DE",
-      "url": "https://www.cup.lmu.de/en/study-programs/pharmaceutical-sciences/struktur-pruefungs-und-studienordnungen-studienplaene-modulhandbuecher/",
+      "url": "https://www.cup.lmu.de/de/studium/studiengaenge/bachelor-pharmaceutical-sciences/",
       "area": "An innovative, research-focused Bachelor's degree in the field of life sciences, providing a strong foundation in modern pharmaceutical research and drug development.",
       "studyType": "B.S. Pharmaceutical Sciences",
       "startDate": "2021",
