@@ -10,7 +10,11 @@
             {% assign date = startDate | append: ' - ' %}
             {% assign date = date | append: endDate %}
           {% else %}
-            {% assign date = '' %}
+            {% if content.date %}
+              {% assign date = content.date %}
+            {% else %}
+              {% assign date = '' %}
+            {% endif %}
           {% endif %}
           <table class="table-cv">
             <tbody>
