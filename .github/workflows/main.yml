@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          github_token: ${{ secrets.WORKFLOW_TOKEN }}
+          token: ${{ secrets.WORKFLOW_TOKEN }}
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v2
         with:
