@@ -34,7 +34,8 @@
       "highlights": [
         "LC-MS method development",
         "Elecsys Radioimmunoassay test development (Oncology and Alzheimer’s) and system integration",
-        "Planning and supervision of internships for pupils"]
+        "Planning and supervision of internships for pupils"
+      ]
     }
   ],
   "education": [
@@ -47,10 +48,10 @@
       "startDate": "2021",
       "score": "",
       "courses": [
-        "Anatomy and Physiology", 
-        "Integrated Organic Chemistry", 
-        "Biochemistry, Molecular Biology and Molecular Medicine", 
-        "Immunology, Immunotherapeutics, Biogenic and Recombinant Drugs", 
+        "Anatomy and Physiology",
+        "Integrated Organic Chemistry",
+        "Biochemistry, Molecular Biology and Molecular Medicine",
+        "Immunology, Immunotherapeutics, Biogenic and Recombinant Drugs",
         "Instrumental Organic Analysis",
         "Medicinical Chemistry and Drug Analysis"
       ]
@@ -106,7 +107,7 @@
       "name": "Computer",
       "level": "",
       "icon": "fa-solid fa-computer",
-      "keywords": ["Python, R",  "Graphpad Prism, JupyterLab",  "FIJI, Cellpose, Cellprofiler", "Windows, Linux"]
+      "keywords": ["Python, R", "Graphpad Prism, JupyterLab", "FIJI, Cellpose, Cellprofiler", "Windows, Linux"]
     }
   ],
   "languages": [
