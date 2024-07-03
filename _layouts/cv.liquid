@@ -51,7 +51,7 @@ layout: default
   <div class="post">
     <header class="post-header">
       <h1 class="post-title">
-        Resume
+        {{ page.title }}
         {% if page.cv_pdf %}
           <a
             href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
@@ -85,7 +85,7 @@ layout: default
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
-                {% when 'experience' %}
+                {% when 'work' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
