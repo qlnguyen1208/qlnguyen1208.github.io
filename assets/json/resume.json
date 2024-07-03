@@ -1,15 +1,16 @@
 {
-  "experience": [
-  {
+  "work": [
+    {
       "name": "AG Koch, LMU Department of Pharmacy",
       "location": "Munich, DE",
       "position": "Bachelor Student",
-      "date": "Jan - Apr 2024",
+      "startDate": "Jan 2024",
+      "startDate": "Apr 2024",
       "summary": "Thesis on investigations of morphology and phagocytotic activity of the retinal pigment epithelium in a retinitis pigmentosa mouse model",
       "highlights": [
-      "Preparation of mouse RPE flatmounts",
-      "qRT-PCR, Immunohistochemistry, Fluoresence Microscopy, Westernblot",
-      "Development of a cellprofiler pipeline for RPE analysis"
+        "Preparation of mouse RPE flatmounts",
+        "qRT-PCR, Immunohistochemistry, Fluoresence Microscopy, Westernblot",
+        "Development of a cellprofiler pipeline for RPE analysis"
       ]
     },
     {
@@ -17,11 +18,10 @@
       "location": "Munich, DE",
       "url": "https://thornseshold.cup.uni-muenchen.de/",
       "position": "Research Intern",
-      "date": "Aug 2023",
+      "startDate": "Aug 2023",
+      "startDate": "Aug 2023",
       "summary": "3 week research internship in pharmaceutical chemistry",
-      "highlights": [
-      "Synthesis, purification and analysis of organic compounds"
-      ]
+      "highlights": ["Synthesis, purification and analysis of organic compounds"]
     },
     {
       "name": "Roche Diagnostics GmbH",
@@ -32,9 +32,10 @@
       "endDate": "2019",
       "summary": "Completed rigorous hands-on vocational training as a chemical laboratory technician, gaining expertise in analytical techniques, biochemical methods and quality control while contributing to impactful research projects.",
       "highlights": [
-      "LC-MS method development",
-      "Elecsys Radioimmunoassay test development (Oncology and Alzheimer’s) and system integration",
-      "Planning and supervision of internships for pupils"]
+        "LC-MS method development",
+        "Elecsys Radioimmunoassay test development (Oncology and Alzheimer’s) and system integration",
+        "Planning and supervision of internships for pupils"
+      ]
     }
   ],
   "education": [
@@ -46,12 +47,14 @@
       "studyType": "B.S. Pharmaceutical Sciences",
       "startDate": "2021",
       "score": "",
-      "courses": ["Anatomy and Physiology", 
-      "Integrated Organic Chemistry", 
-      "Biochemistry, Molecular Biology and Molecular Medicine", 
-      "Immunology, Immunotherapeutics, Biogenic and Recombinant Drugs", 
-      "Instrumental Organic Analysis",
-      "Medicinical Chemistry and Drug Analysis"]
+      "courses": [
+        "Anatomy and Physiology",
+        "Integrated Organic Chemistry",
+        "Biochemistry, Molecular Biology and Molecular Medicine",
+        "Immunology, Immunotherapeutics, Biogenic and Recombinant Drugs",
+        "Instrumental Organic Analysis",
+        "Medicinical Chemistry and Drug Analysis"
+      ]
     },
     {
       "institution": "Staatliche Berufsoberschule",
@@ -98,25 +101,13 @@
       "name": "Laboratory",
       "level": "",
       "icon": "fa-solid fa-flask-vial",
-      "keywords": [
-        "qRT-PCR",
-        "Immunhistochemistry",
-        "Westernblot",
-        "Fluoresence Microscopy",
-        "Organic Synthesis",
-        "HPLC-MS Analysis"
-      ]
+      "keywords": ["qRT-PCR", "Immunhistochemistry", "Westernblot", "Fluoresence Microscopy", "Organic Synthesis", "HPLC-MS Analysis"]
     },
     {
       "name": "Computer",
       "level": "",
       "icon": "fa-solid fa-computer",
-      "keywords": [
-        "Python, R",
-        "Graphpad Prism, JupyterLab",
-        "FIJI, Cellpose, Cellprofiler",
-        "Windows, Linux"
-      ]
+      "keywords": ["Python, R", "Graphpad Prism, JupyterLab", "FIJI, Cellpose, Cellprofiler", "Windows, Linux"]
     }
   ],
   "languages": [
@@ -135,12 +126,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-magnifying-glass",
-      "keywords": [
-        "Neuroscience",
-        "Ophtalmology",
-        "Epigenetics",
-        "Bioinformatics"
-      ]
+      "keywords": ["Neuroscience", "Ophtalmology", "Epigenetics", "Bioinformatics"]
     }
   ]
 }
