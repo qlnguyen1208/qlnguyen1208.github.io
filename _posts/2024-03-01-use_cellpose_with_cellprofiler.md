@@ -36,7 +36,7 @@ pip install "cellprofiler"
 #### 1) Segmentation in Cellpose
 To start Cellpose in gui mode run `cellpose` in a PowerShell prompt. Here you can load single pictures from you dataset and determine the optimal run parameters. You can use the "Calibrate" button after you loaded a picture to determine the average pixel size of your cells. For a more detailed explanation check out the [official documentation.](https://cellpose.readthedocs.io/en/latest/)
 
-Segmenting all of your pictures using the gui can be cumbersome if your dataset has n>1, so the command below can process an entire folder full of pictures  and safe the produced masks as png.
+Segmenting all of your pictures using the gui can be cumbersome if your dataset has n>1, so the command below can process an entire folder full of pictures and safe the produced masks as png.
 ```powershell
 cellpose `
 --dir "C:\Users\User\Documents\Cellpose\in" `
