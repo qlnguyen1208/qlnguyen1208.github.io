@@ -1,8 +1,2 @@
-_bibliography/
-_data/
-_news/
-_pages/
-_posts/
-_projects/
-assets/img/
-assets/json/
+:!assets/js/
+*
