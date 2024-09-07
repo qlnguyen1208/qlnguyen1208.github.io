@@ -109,7 +109,7 @@
       "name": "Computer",
       "level": "",
       "icon": "fa-solid fa-computer",
-      "keywords": ["Python, R", "Graphpad Prism, JupyterLab", "FIJI, Cellpose, Cellprofiler", "Windows, Linux"]
+      "keywords": ["Python, R", "Graphpad Prism, JupyterLab", "FIJI, Cellpose, Cellprofiler", "Microsoft Office, Latex", "Windows, Linux"]
     }
   ],
   "languages": [
