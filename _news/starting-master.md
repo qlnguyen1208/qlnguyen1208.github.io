@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was accepted into the Pharmaceutical Sciences Masters Program at LMU Munich starting October 2024. 🎉
+I was accepted into the Pharmaceutical Sciences Master's Program at LMU Munich starting October 2024. 🎉

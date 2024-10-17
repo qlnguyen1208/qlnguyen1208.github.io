@@ -62,5 +62,5 @@ If you have a gpu I recommend you add `--use_gpu` to significantly speed up the 
 <br>
 #### 2) Analysis in Cellprofiler
 The generated masks can be used in cellprofiler to detect the segmented cells as individual objects. To achieve this, assign your masks in "Images" and "NamesAndTypes" and use the "ConvertImageToObjects" module in your pipeline, select the cellpose masks as input, name your output objects and select "No" on "Convert to boolean image"
-{% include figure.liquid loading="eager" path="assets/img/CellProfiler_ImageToObj.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/CellProfiler_ImageToObj.png" title="CellProfiler Screenshot" class="img-fluid rounded z-depth-1" %}
 You can then use the objects in other modules such as "MeasureObjectSizeShape".

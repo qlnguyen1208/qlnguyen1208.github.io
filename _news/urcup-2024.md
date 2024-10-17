@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation of my Bachelor Thesis at URCUP 2024
+title: Presentation of my Bachelor's Thesis at URCUP 2024
 date: 2024-10-13 16:00:00+0100
 inline: false
 related_posts: false
