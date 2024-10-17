@@ -43,13 +43,31 @@
     {
       "institution": "Ludwig-Maximilians-University",
       "location": "Munich, DE",
+      "url": "https://www.cup.lmu.de/de/studium/studiengaenge/master-pharmaceutical-sciences/",
+      "area": "A research-driven master's degree that emphazises practical lab experience and advanced methodologies.",
+      "studyType": "M.Sc. Pharmaceutical Sciences",
+      "startDate": "Oct 2024",
+      "endDate": "Sep 2026",
+      "score": "",
+      "courses": [
+        "Integrated Pharmacology",
+        "Biopharmaceutics & Quality Assurance",
+        "Development of biogenic Drugs",
+        "Drug Design & Molecular Modelling"
+      ]
+    },
+    {
+      "institution": "Ludwig-Maximilians-University",
+      "location": "Munich, DE",
       "url": "https://www.cup.lmu.de/en/study/study-programs/bachelor-pharmaceutical-sciences/",
       "area": "An innovative, research-focused bachelor's degree in the field of life sciences, providing a strong foundation in modern pharmaceutical research and drug development.",
       "studyType": "B.Sc. Pharmaceutical Sciences",
       "startDate": "Oct 2021",
+      "endDate": "Sep 2024",
       "score": "",
       "courses": [
         "Anatomy and Physiology",
+        "Pharmacology",
         "Integrated Organic Chemistry",
         "Biochemistry, Molecular Biology and Molecular Medicine",
         "Immunology, Immunotherapeutics, Biogenic and Recombinant Drugs",
