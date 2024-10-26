@@ -27,6 +27,7 @@ Akt1,CTGTTCGAGCTGATCCTCATG,CGAAATACCTGGTGTCAGTCTC
 Inside the preamble of a latex document define a function `\formatDNA{}` like in the example below. When used in the document body, the function takes the provided string and inserts a space after every third character. (e.g. `\formatDNA{CTGTTCGAGCT}` -> `CTG TTC GAG CT`)
 
 ```latex
+{% raw %}
 \documentclass[english,12pt,twoside]{article}
 .
 .
@@ -52,6 +53,7 @@ Inside the preamble of a latex document define a function `\formatDNA{}` like in
 .
 .
 .
+{% endraw %}
 ```
 
 <br>
@@ -63,9 +65,11 @@ Inside the template, the columns can be referenced using their names (e.g. /gene
 Add `\usepackage[l3]{csvsimple}` to your preamble.
 
 ```latex
+{% raw %}
 \csvreader[head to column names]{data/qpcr_primer.csv}{}{
 	\\\hline \textit{\gene}  & fwd \newline rev & {\ttfamily \expandafter\formatDNA\expandafter{\seqfwd} \newline \expandafter\formatDNA\expandafter{\seqrev}}
 }
+{% endraw %}
 ```
 
 (`\expandafter` is necessary because of the order in which TeX evaluates expressions. You can read more on that [here](https://www.overleaf.com/learn/latex/Articles/How_does_%5Cexpandafter_work%3A_From_basic_principles_to_exploring_TeX%27s_source_code).)
@@ -74,6 +78,7 @@ When the template within the scope of the command resembles a table row, it can 
 
 This code ...
 ```latex
+{% raw %}
 \begin{longtable}{ 
 		>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{2cm} 
 		>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{3cm} 
@@ -87,6 +92,7 @@ This code ...
 	}
 	\\\hline
 \end{longtable}
+{% endraw %}
 ```
 ... produces a table like the following.
 {% include figure.liquid loading="eager" path="assets/img/latex_primer_table.png" title="The resulting table" class="img-fluid rounded z-depth-1" %}
