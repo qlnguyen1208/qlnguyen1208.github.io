@@ -2,9 +2,9 @@
 layout: post
 title: How to use Cellpose with Cellprofiler (without plugin)
 date: 2024-03-01
-description: A short tutorial on windows
+description: A short tutorial on how cellpose segmentation can be used in cellprofiler pipelines without using the plugin.
 tags: python cellprofiler cellpose
-categories: tutorials research
+categories: tutorials research tools
 ---
 
 [Cellpose](https://www.cellpose.org/) is generalist segmentation algorithm that allows for reliable identification of cells in microscope images even under suboptimal conditions (e.g. bad focus, degenerated cells) and its usage in combination with [Cellprofiler](https://cellprofiler.org/) enables highly automated analysis of cell/tissue morphology.
