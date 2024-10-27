@@ -61,7 +61,7 @@ Inside the preamble of a latex document define a function `\formatDNA{}` like in
 #### 3) Including the Table in the Document
 In the scope of the `\csvreader[]{file-to-use.csv}` command, a template is defined. The command then itreates over every row of the provided file, pastes the rows data into the template and returns the resulting text.
 
-Inside the template, the columns can be referenced using their names (e.g. /gene).
+Inside the template, the columns can be referenced using their names (e.g. `\gene`).
 
 Add `\usepackage[l3]{csvsimple}` to your preamble.
 
