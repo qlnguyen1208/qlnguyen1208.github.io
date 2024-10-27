@@ -8,6 +8,7 @@ categories: tutorials tools
 ---
 
 The following example generates a nice readable LaTeX table of PCR primer sequences from a .csv file using a self defined command and [csvsimple](https://ctan.org/pkg/csvsimple).
+Using this approach allows for easy storage and management of sequences (or any other data in principle) in the .csv file, without having to include and format any actual sequence data in the .tex files of the LaTeX document.
 
 <br>
 #### 1) Getting the raw Data ready
