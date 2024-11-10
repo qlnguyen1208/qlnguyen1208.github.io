@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I am an MSc. student at LMU Munich, specializing in molecular pharmacology. I am motivated to advance scientific understanding of disease mechanisms while contributing to new therapeutic options. 
+Hi there! I am an M.Sc. student at LMU Munich, specializing in molecular pharmacology. I am motivated to advance scientific understanding of disease mechanisms while contributing to new therapeutic options. 
 
 In my bachelor thesis, I investigated the changes of the retinal pigment epithelium during retinitis pigmentosa disease progression. My technical skills include qRT-PCR, immunohistochemistry, fluorescence microscopy, western blot and computer-aided image segmentation. I am always eager to learn new methods!
 
