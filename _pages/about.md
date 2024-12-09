@@ -4,10 +4,10 @@ title: about
 permalink: /
 subtitle: Pharmaceutical Sciences Student @ LMU Munich
 
-profile:
-  align: right
-  image: profile.png
-  image_circular: false # crops the image to make it circular
+#profile:
+#  align: right
+#  image: profile.png
+#  image_circular: false # crops the image to make it circular
   #more_info: >
   #<p>LMU Munich</p>
   #<p>Bavaria, Germany</p>
