@@ -78,6 +78,7 @@ Add `\usepackage[l3]{csvsimple}` to your preamble.
 When the template within the scope of the command resembles a table row, it can simply be included in a tabular (e.g. longtable) to apply additional formatting and produce a nice table in the resulting document.
 
 This code ...
+
 ```latex
 {% raw %}
 \begin{longtable}{

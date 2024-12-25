@@ -8,7 +8,7 @@ category: personal
 related_publications: false
 ---
 
-The scope of this python project was to automatically post weather data and water temperature for Lake Starnberg <a href="https://www.instagram.com/wetter.am.see/"><i class="fa-brands fa-instagram"></i>wetter.am.see</a> and Ammersee<a href="https://www.instagram.com/wetter.am.ammersee/"><i class="fa-brands fa-instagram"></i>wetter.am.ammersee</a> to instagram.
+The scope of this python project was to automatically post weather data and water temperature for Lake Starnberg (<a href="https://www.instagram.com/wetter.am.see/"><nobr><i class="fa-brands fa-instagram"></i> wetter.am.see</nobr></a>) and Ammersee (<a href="https://www.instagram.com/wetter.am.ammersee/"><nobr><i class="fa-brands fa-instagram"></i> wetter.am.ammersee</nobr></a>) to instagram.
 
 {% include figure.liquid path="assets/img/insta_weather_bot.jpg" title="Image output of insta_weather_bot" class="img-fluid rounded z-depth-1" %}
 
