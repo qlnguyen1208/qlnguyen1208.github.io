@@ -38,7 +38,7 @@ Inside the preamble of a latex document define a function `\formatDNA{}` like in
 \newcommand{\formatDNA}[1]{%
 	\setcounter{@count}{0}%
 	\@tfor\base:=#1\do{%
-		\base% 
+		\base%
 		\stepcounter{@count}%
 		\ifnum\value{@count}=3
 			\space%
@@ -80,14 +80,14 @@ When the template within the scope of the command resembles a table row, it can 
 This code ...
 ```latex
 {% raw %}
-\begin{longtable}{ 
-		>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{2cm} 
-		>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{3cm} 
+\begin{longtable}{
+		>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{2cm}
+		>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{3cm}
 		m{9.7cm} }
 	\caption{List of primer sequences used for qPCR.}
 	\label{table:qpcr-primer}\\
 	\hline
-	\textbf{Gene} & \textbf{Direction} & \textbf{Sequence 5'\textrightarrow3'} 
+	\textbf{Gene} & \textbf{Direction} & \textbf{Sequence 5'\textrightarrow3'}
 	\csvreader[head to column names]{data/qpcr_primer.csv}{}{
 		\\\hline \textit{\gene}  & fwd \newline rev & {\ttfamily \expandafter\formatDNA\expandafter{\seqfwd} \newline \expandafter\formatDNA\expandafter{\seqrev}}
 	}
@@ -95,5 +95,6 @@ This code ...
 \end{longtable}
 {% endraw %}
 ```
+
 ... produces a table like the following.
 {% include figure.liquid loading="eager" path="assets/img/latex_primer_table.png" title="The resulting table" class="img-fluid rounded z-depth-1" %}
