@@ -27,7 +27,7 @@ I modified [_includes/resume/languages.liquid](_includes/resume/languages.liquid
 +                <td class="list-group-category-icon">
 +                  {{ content.icon }}
 +                </td>
-              {% endif %}
+               {% endif %}
             {% else %}
               <td class="list-group-category-icon"></td>
             {% endif %}
