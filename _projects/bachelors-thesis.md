@@ -14,7 +14,17 @@ The retinal pigment epithelium (RPE) is a supportive tissue with numerous functi
 
 Due to the many different mutations causing RP, a mechanism independent approach to gene therapy is required to enable treatment of significant proportions of patients. Elucidating RPE remodeling during RP progression is one important step towards this goal.
 
-**Outcome:** This research contributed to an abstract with my advisor {% cite HaffelderEtAl2024 %}, additionally I got invited to present my work as a poster at [URCUP 2024](/news/urcup-2024/).
+**Output:** This research contributed to an abstract with my advisor {% cite HaffelderEtAl2024 %}, additionally I got invited to present my work as a poster at [URCUP 2024](/news/urcup-2024/).
+
+Techniques and accomplishments:
+
+- extracting mouse RPE for imaging and RNA isolation
+- significantly reduce number of unrecognized cells during cell segmentation by implementing [cellpose](https://github.com/mouseland/cellpose) into image analysis pipeline
+- qRT-PCR for gene expression analysis
+- staining, mounting and imaging of RPE
+- integrate & interpret results from different experiments for my thesis (and get my B.Sc., yayyy :) )
+
+Check [here](/news/urcup-2024/) for a summary of my findings as a poster.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,5 +35,5 @@ Due to the many different mutations causing RP, a mechanism independent approach
     </div>
 </div>
 <div class="caption">
-    In healthy RPE, the cells express an even hexagonal pattern (left), upon progression of RP processes like epithelial to mesenchymal transition lead to loss of function and form (right).
+    In healthy RPE, the cells express an even hexagonal pattern (first image), upon progression of RP processes like epithelial to mesenchymal transition lead to loss of function and form (second image).
 </div>
