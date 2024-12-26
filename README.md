@@ -1,12 +1,12 @@
 # My personal website
 
-This is the source for my personal website at [friesenegger.xyz](https://friesenegger.xyz). 
+This is the source for my personal website at [friesenegger.xyz](https://friesenegger.xyz).
 
 It uses the amazing al-folio jekyll theme, check [here](https://github.com/alshedivat/al-folio) if you want to use it too. It is hosted for free using github-pages.
 
 ## My changes to the theme
 
-I modified [_includes/resume/languages.liquid](_includes/resume/languages.liquid) to be able to use emojis as icons for languages in my resume.
+I modified [_includes/resume/languages.liquid](\_includes/resume/languages.liquid) to be able to use emojis as icons for languages in my resume.
 
 ```diff
 <div class="list-groups">
