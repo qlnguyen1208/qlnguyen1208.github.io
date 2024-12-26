@@ -6,7 +6,7 @@ It uses the amazing al-folio jekyll theme, check [here](https://github.com/alshe
 
 ## My changes to the theme
 
-I modified [_includes/resume/languages.liquid](\_includes/resume/languages.liquid) to be able to use emojis as icons for languages in my resume.
+I modified [\_includes/resume/languages.liquid](_includes/resume/languages.liquid) to be able to use emojis as icons for languages in my resume.
 
 ```diff
 <div class="list-groups">
