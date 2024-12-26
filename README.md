@@ -16,9 +16,9 @@ I modified [_includes/resume/languages.liquid](_includes/resume/languages.liquid
         <tbody>
           <tr>
             {% if content.icon %}
--                <td class="list-group-category-icon">
--                  <i class="{{ content.icon }}"></i>
--                </td>
+-              <td class="list-group-category-icon">
+-                <i class="{{ content.icon }}"></i>
+-              </td>
 +              {% if content.icon[0] == 'f' %}
 +                <td class="list-group-category-icon">
 +                  <i class="{{ content.icon }}"></i>
