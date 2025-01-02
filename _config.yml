@@ -6,12 +6,15 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Florian
 middle_name:
 last_name: Friesenegger
-email: florian@friesenegger.xyz
+contact_note: >
+  Always happy to chat about interesting ideas & opportunities
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Pharmaceutical Sciences Student at Ludwig-Maximilians-University Munich
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  <br>
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme and <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+  <br>
+  <a href="/impressum">Impressum</a>
 keywords: florian friesenegger, friesenegger, pharmaceutical sciences, LMU Munich, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -200,7 +203,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - pages_unused
 keep_files:
   - CNAME
   - .nojekyll
@@ -632,6 +634,8 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
+  - data: paper-a-day
+    json: assets/json/paper-a-day.json
 jsonresume:
   - basics
   - work

@@ -3,7 +3,7 @@ layout: page
 title: Instagram Weather Bot
 description: Instagram bot for automated daily weather reports written in python
 img: assets/img/insta_weather_bot.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
