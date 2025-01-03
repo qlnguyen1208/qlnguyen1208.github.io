@@ -18,5 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I recently graduated from the University of California, San Diego, with a bachelor's degree in Mathematics and Economics. I have a strong math background in calculus, probability, and statistics with RStudio, STATA, and Python. I am very passionate about economic growth, finance, and business analysis. Regarding the research sector, I am excited to study and do research in international macroeconomics, economic development, and R&D.
+Hi there! I recently graduated from the University of California, San Diego, with a bachelor's degree in Mathematics and Economics. I have a strong math background in calculus, probability, and statistics with RStudio, STATA, and Python. I am very passionate about economic growth, finance, and business analysis. 
 
+<p><b>Research Interest</b></p>
+International Macroeconomics, Developments, and Monetary Policies
