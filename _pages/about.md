@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /
 subtitle: Math - Econ Student @ UC San Diego
 
 profile:
