@@ -1,9 +1,10 @@
 ---
 layout: page
-title: news
+title: teaching
 permalink: /news/
 nav: true
 nav_order: 2
 ---
 
-# {% include news.liquid %}
+Intermediate Microeconomics (Econ 100B) - Winter 2024
+Intermediate Macroeconomics (Econ 110A) - Spring 2024
