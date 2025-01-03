@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+# <!-- pages/projects.md -->
 # <div class="projects">
 # {% if site.enable_project_categories and page.display_categories %}
 #  <!-- Display categorized projects -->
@@ -24,7 +24,7 @@ horizontal: false
 #  <div class="container">
 #    <div class="row row-cols-1 row-cols-md-2">
 #    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+#     {% include projects_horizontal.liquid %}
 #    {% endfor %}
 #    </div>
 #  </div>
