@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Pharmaceutical Sciences Student @ LMU Munich
+subtitle: Math - Econ Student @ UC San Diego
 
 #profile:
 #  align: right
@@ -18,8 +18,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I am a master's student at LMU Munich, specializing in pharmaceutical sciences and interested in bioinformatics. I am motivated to advance scientific understanding of disease mechanisms while contributing to new therapeutic options.
+Hi there! I recently graduated from the University of California, San Diego, with a bachelor's degree in Mathematics and Economics. I have a strong math background in calculus, probability, and statistics with RStudio, STATA, and Python. I am very passionate about economic growth, finance, and business analysis. Regarding the research sector, I am excited to study and do research in international macroeconomics, economic development, and R&D.
 
-For my [bachelor's thesis](/projects/bachelors-thesis/), I investigated the changes of the retinal pigment epithelium during retinitis pigmentosa disease progression. My technical skills include qRT-PCR, immunohistochemistry, fluorescence microscopy, western blot and computer-aided image segmentation. I am always eager to learn new methods!
-
-I am currently pursuing my master's degree to expand my expertise in molecular and computational methods. I plan to pursue a PhD to combine my wet lab experience with advanced computational methods.
