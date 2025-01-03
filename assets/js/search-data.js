@@ -100,11 +100,11 @@ ninja.data = [{
           window.open("https://github.com/qlnguyen1208", "_blank");
         },
       },{
-        id: 'social-linkedin_url',
-        title: 'Linkedin_url',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/quan-nguyen-084a32149/", "_blank");
         },
       },{
       id: 'light-theme',
