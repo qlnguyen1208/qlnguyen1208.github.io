@@ -41,8 +41,8 @@
 "Hold biweekly discussion sessions and office hours to review and work on problem sets." ]
     },
      {
-      "name": "Becamex Tokyu Co., Ltd",
-      "location": "Binh Duong New city, Viet Nam",
+      "name":"Becamex Tokyu Co., Ltd",
+      "location":"Binh Duong New City, Viet Nam",
       "url": "https://becamex.com.vn/en/slider/becamex-tokyu/",
       "position": "Market Research Internship",
       "startDate": "2023.06",
@@ -105,22 +105,14 @@
   ],
   "awards": [
     {
-      "title": "DPG Abitur-/ & Buchpreis",
-      "date": "2021",
-      "awarder": "German Physical Society",
-      "url": "https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis?set_language=en",
-      "summary": "For outstanding performance in the subject Physics"
+      "title": "UCSD Provost's Honor",
+      "date": "2021 - 2024",
+      "awarder": "UC San Diego",
+      "url": "https://roosevelt.ucsd.edu/academics/Academic%20Opportunities/honors/index.html#Provost-Honors",
+      "summary": "For outstanding performance with CGPA above 3.5 each quarter"
     }
   ],
-  "certificates": [
-    {
-      "name": "The DataScientist's Toolbox",
-      "date": "2022",
-      "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/3W4VCVPUKSUF",
-      "icon": "fa-solid fa-chart-column"
-    }
-  ],
+
   "skills": [
     {
       "name": "Laboratory",
@@ -137,9 +129,9 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
-      "icon": "🇩🇪"
+      "icon": "🇻🇳"
     },
     {
       "language": "English",
@@ -151,7 +143,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-magnifying-glass",
-      "keywords": ["Neuroscience", "Ophtalmology", "Epigenetics", "Bioinformatics"]
+      "keywords": ["International Economics", "Macro Development", "Monetary Policies",]
     }
   ]
 }
