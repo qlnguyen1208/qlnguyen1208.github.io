@@ -42,7 +42,7 @@
     },
     {
       "name":"Becamex Tokyu Co., Ltd",
-      "location":"Binh Duong New City, Viet Nam",
+      "location":"Binh Duong, Viet Nam",
       "url": "https://becamex.com.vn/en/slider/becamex-tokyu/",
       "position": "Market Research Internship",
       "startDate": "2023.06",
@@ -89,35 +89,16 @@
       "courses": []
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Offene Ganztagsschule an der Grundschule Tutzing",
-      "position": "IT Manager",
-      "url": "https://www.ogts-tutzing.de",
-      "startDate": "2022",
-      "endDate": "2024",
-      "summary": "",
-      "highlights": []
-    }
-  ],
   "awards": [
     {
-      "title": "DPG Abitur-/ & Buchpreis",
-      "date": "2021",
-      "awarder": "German Physical Society",
-      "url": "https://www.dpg-physik.de/auszeichnungen/dpg-preise/abiturpreis?set_language=en",
-      "summary": "For outstanding performance in the subject Physics"
+      "title": "UCSD Provost's Honor",
+      "date": "2021 - 2024",
+      "awarder": "UC San Diego",
+      "url": "https://roosevelt.ucsd.edu/academics/Academic%20Opportunities/honors/index.html#Provost-Honors",
+      "summary": "For outstanding performance with CGPA above 3.5 each quarter"
     }
   ],
-  "certificates": [
-    {
-      "name": "The DataScientist's Toolbox",
-      "date": "2022",
-      "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/3W4VCVPUKSUF",
-      "icon": "fa-solid fa-chart-column"
-    }
-  ],
+ 
   "skills": [
     {
       "name": "Laboratory",
