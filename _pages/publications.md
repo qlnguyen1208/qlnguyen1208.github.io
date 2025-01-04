@@ -4,7 +4,7 @@ permalink: /publications/
 title: publication<del>s</del>
 description:
 nav: true
-nav_order: 3
+nav_order:3
 ---
 
 <!-- _pages/publications.md -->
