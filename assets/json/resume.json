@@ -1,17 +1,6 @@
 {
     "education": [
     {
-      "institution": "University of California, San Diego",
-      "location": "La Jolla - CA, U.S.A",
-      "url": "https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/joint-econ-math-major-ba.html",
-      "area": "Mathematics, Econometrics, and Economics",
-      "studyType": "B.Sc in Joint Mathematics and Economics",
-      "startDate": "2021.09",
-      "endDate": "2024.12",
-      "score": "3.887/4.0",
-      "courses": [ ]
-    },
-    {
       "institution": "London School of Economics and Political Science",
       "location": "London, UK",
       "url": "https://www.lse.ac.uk",
@@ -21,6 +10,17 @@
       "endDate": "2024.07",
       "score": "4.0/4.0",
       "courses": []
+    },
+    {
+      "institution": "University of California, San Diego",
+      "location": "La Jolla - CA, U.S.A",
+      "url": "https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/joint-econ-math-major-ba.html",
+      "area": "Mathematics, Econometrics, and Economics",
+      "studyType": "B.Sc in Joint Mathematics and Economics",
+      "startDate": "2021.09",
+      "endDate": "2024.12",
+      "score": "3.887/4.0",
+      "courses": [ ]
     }
   ],
   
