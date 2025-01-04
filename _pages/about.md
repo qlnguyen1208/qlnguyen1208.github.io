@@ -21,4 +21,4 @@ social: true # includes social icons at the bottom of the page
 Hi there! I recently graduated from the University of California, San Diego, with a bachelor's degree in Mathematics and Economics. I have a strong math background in calculus, probability, and statistics with RStudio, STATA, and Python. I am very passionate about economic growth, finance, and business analysis. 
 
 <p><b>Research Interest</b></p>
-International Macroeconomics, Developments, and Monetary Policies
+Macro Developments, Monetary Policies, and International Economics
