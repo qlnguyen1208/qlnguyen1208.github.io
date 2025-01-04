@@ -3,7 +3,7 @@ layout: page
 title: teaching
 permalink: /news/
 nav: true
-nav_order:5
+nav_order: 5
 ---
 <p><b>UC San Diego - Undergraduate Teaching Assistant </b></p>
 Intermediate Microeconomics (Econ 100B) - Winter 2024
