@@ -101,37 +101,20 @@
  
   "skills": [
     {
-      "name": "Laboratory",
-      "level": "",
-      "icon": "fa-solid fa-flask-vial",
-      "keywords": [
-        "qRT-PCR",
-        "Immunhistochemistry",
-        "Westernblot",
-        "Fluoresence Microscopy",
-        "Method Development & Validation",
-        "Organic Synthesis",
-        "HPLC-MS Analysis"
-      ]
-    },
-    {
       "name": "Computer",
       "level": "",
       "icon": "fa-solid fa-computer",
       "keywords": [
-        "Python, R, KNIME",
-        "Graphpad Prism, JupyterLab",
-        "FIJI, Cellpose, Cellprofiler",
-        "Microsoft Office, Latex",
-        "Windows, Linux"
+        "Python, R, STATA",
+        "Microsoft Office, Latex, ArcGIS",
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
-      "icon": "🇩🇪"
+      "icon": "🇻🇳"
     },
     {
       "language": "English",
@@ -143,7 +126,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-magnifying-glass",
-      "keywords": ["Neuroscience", "Ophtalmology", "Epigenetics", "Bioinformatics"]
+      "keywords": ["Economic Growth", "Macroeconomics", "International Economics"]
     }
   ]
 }
