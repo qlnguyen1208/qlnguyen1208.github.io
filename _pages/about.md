@@ -23,4 +23,4 @@ Hi there! I recently graduated from the University of California, San Diego, wit
 <p><b>Research Interest</b></p>
 Macro Developments, Monetary Policies, and International Economics
 
-<p><b>Email: qlnguyen1208@gmail.com </b></p>
+<p><b>E-Mail: [qlnguyen1208@gmail.com](mailto:qlnguyen1208@gmail.com) </b></p>
