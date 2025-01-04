@@ -1,4 +1,29 @@
 {
+    "education": [
+    {
+      "institution": "University of California, San Diego",
+      "location": "La Jolla - CA, U.S.A",
+      "url": "https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/joint-econ-math-major-ba.html",
+      "area": "Mathematics, Econometrics, and Economics",
+      "studyType": "B.Sc in Joint Mathematics and Economics",
+      "startDate": "2021.09",
+      "endDate": "2024.12",
+      "score": "3.887/4.0",
+      "courses": [ ]
+    },
+    {
+      "institution": "London School of Economics and Political Science",
+      "location": "London, UK",
+      "url": "https://www.lse.ac.uk",
+      "area": "International Economics and Development Economics",
+      "studyType": "LSE Summer Exchange Program",
+      "startDate": "2024.06",
+      "endDate": "2024.07",
+      "score": "4.0/4.0",
+      "courses": []
+    }
+  ],
+  
   "work": [
     {
       "name": "UC San Diego, Department of Economics",
@@ -65,30 +90,6 @@
       } 
   ],
   
-  "education": [
-    {
-      "institution": "University of California, San Diego",
-      "location": "La Jolla - CA, U.S.A",
-      "url": "https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/joint-econ-math-major-ba.html",
-      "area": "Mathematics, Econometrics, and Economics",
-      "studyType": "B.Sc in Joint Mathematics and Economics",
-      "startDate": "2021.09",
-      "endDate": "2024.12",
-      "score": "3.887/4.0",
-      "courses": [ ]
-    },
-    {
-      "institution": "London School of Economics and Political Science",
-      "location": "London, UK",
-      "url": "https://www.lse.ac.uk",
-      "area": "International Economics and Development Economics",
-      "studyType": "LSE Summer Exchange Program",
-      "startDate": "2024.06",
-      "endDate": "2024.07",
-      "score": "4.0/4.0",
-      "courses": []
-    }
-  ],
   "awards": [
     {
       "title": "UCSD Provost's Honor",
