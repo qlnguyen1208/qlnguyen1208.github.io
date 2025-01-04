@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
         },{id: "post-creating-a-pcr-primer-table-in-latex-from-a-csv-file",
       
         title: "Creating a PCR Primer Table in LaTeX from a .csv File",
