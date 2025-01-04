@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-teaching",
-          title: "teaching",
+  },{id: "nav-cv",
+          title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-publication-lt-del-gt-s-lt-del-gt",
           title: "publication&lt;del&gt;s&lt;/del&gt;",
@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-teaching",
+          title: "teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/news/";
           },
         },{id: "post-creating-a-pcr-primer-table-in-latex-from-a-csv-file",
       
