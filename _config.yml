@@ -16,7 +16,7 @@ footer_text: >
   <br>
   
 keywords: quan nguyen, loc anh quan nguyen, math, economic, uc san diego, ucsd,econ # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: fr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://qlnguyen1208.github.io # the base hostname & protocol for your site
