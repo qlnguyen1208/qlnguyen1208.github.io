@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-#  more_info: >
-#    <p>LMU Munich</p>
+  more_info: >
+    <p>Welfare, Growth, & Prosperity</p>
 #    <p>Campus Grosshadern</p>
 #    <p>Bavaria, Germany</p>
 
@@ -18,10 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I recently graduated from the University of California, San Diego, with a bachelor's degree in Mathematics and Economics. I have a strong math background in calculus, probability, and statistics with RStudio, STATA, and Python. I am very passionate about economic growth, finance, and business analysis. 
+Hi there! I recently graduated from the University of California, San Diego, with a bachelor's degree in Mathematics and Economics. I have a strong math background in calculus, probability, and statistics with RStudio, STATA, and Python. I am very passionate about economic growth, finance, and business analysis.
 
 <p><b>Research Interest: </b></p>
-Macro Developments, Monetary Policies, and International Economics
+Macro Developments, Monetary Policies, and International Economics. 
+
 
 
 <p><b>E-Mail:</b></p>
