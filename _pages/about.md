@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Math - Econ Student @ UC San Diego
+subtitle: Welfare, Growth, & Prosperity
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Welfare, Growth, & Prosperity</p>
+    <p>Math - Econ Student @ UC San Diego</p>
 #    <p>Campus Grosshadern</p>
 #    <p>Bavaria, Germany</p>
 
